@@ -4,6 +4,12 @@
 
 <br />
 
+### you can check this online:
+(https://kushikime.github.io/tetter-totter-pages/)
+
+
+<br />
+
 In the project directory, you can run:
 
 ### `npm install`
