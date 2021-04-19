@@ -1,3 +1,9 @@
+## Recommended resolution to run 1920x1080
+
+![](example.gif)
+
+<br />
+
 In the project directory, you can run:
 
 ### `npm install`
@@ -9,8 +15,7 @@ In the project directory, you can run:
 ### The boxes may placed one upon other
 
 <br />
-<br />
-<br />
+
 
 
 
@@ -18,10 +23,5 @@ In the project directory, you can run:
 ### The colors are generated randomly, so sometimes the figures are transparent 
 
 <br />
-<br />
-<br />
 
 
-## Recommended resolution to run 1920x1080
-
-![](example.gif)
