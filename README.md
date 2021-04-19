@@ -4,8 +4,8 @@
 
 <br />
 
-### you can check this online:
-(https://kushikime.github.io/tetter-totter-pages/)
+### You can check this online:
+https://kushikime.github.io/tetter-totter-pages/
 
 
 <br />
