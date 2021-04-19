@@ -8,12 +8,13 @@ In the project directory, you can run:
 ### Bending and falling speed increasing
 ### The boxes may placed one upon other
 
-## Known bugs
+
+
+
+
+## Known bugs  
 ### The colors are generated randomly, so sometimes the figures are transparent
 
-###
-###
-###
 
 ## Recommended resolution to run 1920x1080
 
