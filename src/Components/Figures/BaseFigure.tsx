@@ -92,7 +92,9 @@ export const BaseFigure = (props:BaseFigureProps) => {
 
     const startFalling = () => {
         if(falling){
-            setTop(top + 0.4);
+            window.requestAnimationFrame(()=>{
+                setTop(top + 15);
+            })
         }
     }
 
