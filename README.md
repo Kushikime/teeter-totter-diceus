@@ -11,7 +11,9 @@ In the project directory, you can run:
 ## Known bugs
 ### The colors are generated randomly, so sometimes the figures are transparent
 
-
+###
+###
+###
 
 ## Recommended resolution to run 1920x1080
 
